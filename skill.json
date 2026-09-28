@@ -1,0 +1,9 @@
+{
+  "name": "genpark-elliptic-curve-secp256k1-point-math-skill",
+  "version": "1.0.0",
+  "description": "Weierstrass elliptic curve arithmetic, affine point addition, and double-and-add scalar multiplication",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
