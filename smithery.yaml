@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-elliptic-curve-secp256k1-point-math-skill
+service:
+  name: genpark-elliptic-curve-secp256k1-point-math-skill
+  command: python
+  args:
+    - mcp_server.py
